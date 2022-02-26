@@ -1,0 +1,191 @@
+body{
+   background-color: #f0f2f5;
+   font-family: Helvetica, sans-serif;
+}
+
+.conteudo-principal{
+   width: 85%;
+   margin: 8% auto;
+}
+
+.conteudo-principal .container{
+   display: flex;
+   justify-content: space-around;
+}
+
+.logo-facebook{
+   width: 200px;
+   height: 70px;
+   margin-left: -20px;
+}
+
+.titulo-P-info{
+   font-size: 27px;
+   font-weight: 400;
+   color: #1c1e21;
+}
+
+.subtitulo-info{
+   font-size: 15px;
+   color: #606770;
+   font-weight: 400;
+   line-height: 1.9em;
+}
+
+.fotos-perfil-info{
+   margin-top: 5%;
+   width: 350px;
+}
+
+.fotos-perfil-info .container{
+   justify-content: space-between;
+}
+
+.card-perfil-info{
+   background-color: #ffffff;
+   text-align: center;
+   border-radius: 6px;
+   outline: 1px solid #c9c9c991;
+   height: 200px;
+   width: 160px;
+}
+
+.plus{
+  height: 45px;
+  padding-top: 50px;
+}
+
+.nome-plus{
+   margin-top: 43%;
+   color: #1877F2;
+   font-weight: 500;
+   font-size: 18px;
+}
+
+.card-perfil-info:hover{
+   cursor: pointer;
+   box-shadow: 0px 3px 10px #85888b7a;
+   transition: 350ms;
+   outline: none;
+}
+
+.nome-perfil{
+   padding-top: 5%;
+   color: #4b4f56;
+   font-size: 18px;
+}
+
+
+
+
+
+/* ############## FORMULARIO ########## */
+
+.login{
+   width: 35%;
+   margin-top: 5%;
+   height: 350px;
+   background-color: #ffffff;
+   border-radius: 6px;
+   box-shadow: 0px 1px 8px rgba(96, 103, 112, 0.302);
+}
+
+.formulario{
+   width: 90%;
+   margin: 4% auto;
+}
+
+.formulario .container{
+   display: flex;
+   flex-direction: column;
+   height: 300px;
+}
+
+.campo{
+   height: 40px;
+   border-radius: 5px;
+   border: 1px solid #c0c0c0;
+   padding: 5px 20px;
+   font-size: 16px;
+}
+
+.campo:focus{
+   border: 1px solid #1877F2;
+   outline: none;
+}
+
+.campo:focus::-webkit-input-placeholder{
+   color: #c0c0c0;
+}
+
+.bt-entrar{
+   height: 48px;
+   background-color: #1877F2;
+   color: #ffffff;
+   border-radius: 5px;
+   font-size: 20px;
+   font-weight: 700;
+   border: none;
+}
+
+.bt-entrar:hover{
+   cursor: pointer;
+   background-color: #206dd3;
+   transition: 250ms;
+}
+
+
+.linha{
+   width: 100%;
+   border: none;
+   border-top: 1px solid #dadada;
+}
+
+.esqueceu-senha{
+   text-align: center;
+   text-decoration: none;
+   font-size: 14px;
+   color: #1877F2;
+}
+
+.esqueceu-senha:hover{
+   text-decoration: underline;
+}
+
+.bt-cadastre{
+   height: 48px;
+   background-color: #41c227;
+   color: #ffffff;
+   border-radius: 5px;
+   font-size: 17px;
+   font-weight: 700;
+   border: none;
+   width: 45%;
+   align-self: center;
+}
+
+.bt-cadastre:hover{
+   cursor: pointer;
+   background-color: #36A420;
+   transition: 250ms;
+}
+
+.crie-pag{
+   font-size: 14px;
+   color: #1c1e21;
+   font-weight: 400;
+   width: 35%;
+   margin-left: 57%;
+   margin-top: 2%;
+   text-align: center;
+}
+
+.crie-pag a{
+   text-decoration: none;
+   color: #000000;
+   font-weight: bold;
+}
+
+.crie-pag a:hover{
+   text-decoration: underline;
+}
