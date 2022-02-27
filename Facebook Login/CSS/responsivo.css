@@ -1,0 +1,22 @@
+@media (max-width:425px) {
+   .conteudo-principal .container{
+      flex-direction: column;
+   }
+   
+   .fotos-perfil-info, .titulo-P-info, .subtitulo-info{
+      display: none;
+   }
+   
+   .login{
+      width: 100%;
+   }
+   .bt-cadastre{
+      width: auto;
+      font-size: 14px;
+      height: 40px;
+   }
+   .crie-pag{
+      width: auto;
+      margin: 4% auto;
+   }
+}
