@@ -10,7 +10,7 @@
 O projeto é composto por uma  unica pagina contendo um formulario de login.
 
 
-<img src="Conteudo/previa-img.png" alt="Imagem de pré-visualização da pagina">
+<img src="Conteudo/previa-img.PNG" alt="Imagem de pré-visualização da pagina">
 
 ---
 
