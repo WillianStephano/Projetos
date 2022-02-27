@@ -1,0 +1,275 @@
+@font-face {
+   font-family: chaney;
+   src: url(../Conteudo/chaney-ultraextended-webfont.d7cc3bf2.ttf);
+}
+
+.corpo{
+   background-color: #13151B;
+   font-family: 'Space Grotesk', sans-serif;
+}
+
+.cabecalho{
+   border-bottom:1px solid #2B354A;
+}
+
+.cabecalho .container{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 90%;
+   margin: 2% auto;
+   color: #8694b2;
+}
+
+.img_logo{
+   width: 150px;
+}
+
+.lista_menu_nav{
+   display: flex;
+   list-style: none;
+   gap: 30px;
+   font-size: 16px;
+}
+
+.item_menu_nav:hover{
+   color: #d6d6d6;
+   cursor: pointer;
+}
+
+.perfil{
+   display: flex;
+   align-items: center;
+   gap: 10px;
+   color: #ffffff;
+   padding: 5px 10px;
+   border-radius: 5px;
+}
+
+.perfil:hover{
+   background-color: #6C757D;
+   transition: 350ms;
+   cursor: pointer;
+}
+
+.foto_perfil{
+   border: 5px #13151B ;
+   border-style: double;
+   border-radius: 100%;
+   padding: 13px;
+   background-color: #6C757D;
+}
+
+
+
+
+
+
+/* ################# Intro ############### */
+.intro{
+   border-bottom: 1px solid #2B354A;
+}
+
+.intro .container{
+   display: flex;
+   align-items: center;
+}
+
+.conteudo_texto_intro{
+   color: #ffffff;
+   z-index: 1;
+   position: absolute;
+   left: 8%;
+   width: 60%;
+}
+
+.titulo_p_intro{
+   font-family: 'chaney';
+   font-size: 28px;
+   text-transform: uppercase;
+   font-weight: 500;
+   line-height: 1.2em;
+}
+
+.palavra_verde{
+   color: #DCFC04;
+}
+
+.subtitulo_intro{
+   color: #DCFC04;
+   text-transform: uppercase;
+   font-size: 16px;
+   margin: 3% 0;
+}
+
+.texto_intro{
+   color: #8694b2;
+   margin-bottom: 5%;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 1.3em;
+   width: 80%;
+}
+
+.bt_intro{
+   text-decoration: none;
+   color: #13151B;
+   background-color: #DCFC04;
+   border-radius: 7px;
+   padding: 16px 48px;
+   text-transform: uppercase;
+}
+
+.bt_intro i img{
+   vertical-align: text-bottom;
+}
+
+.img_intro{
+   z-index: 0;
+   margin-left: 36%;
+}
+
+
+
+
+
+
+/* ############################ */
+.mid{
+   color: #ffffff;
+   background-color: #161921;
+   padding: 5% 0;
+   text-align: center;
+   border-bottom: 1px solid #2B354A;
+}
+
+.titulo_p_mid{
+   font-family: 'chaney';
+   font-size: 30px;
+   font-weight: 500;
+   text-transform: uppercase;
+}
+
+.mid .container{
+   display: flex;
+   justify-content: space-around;
+   width: 90%;
+   margin: 5% auto;
+}
+
+.card_mid{
+   background-color: #13151B;
+   border: 2px solid #20232C;
+   border-radius: 15px;
+   width: 25%;
+   text-align: center;
+   padding: 70px 24px;
+}
+
+.titulo_card{
+   font-size: 20px;
+   font-weight: 500;
+   margin: 5% 0;
+}
+
+.texto_card{
+   color: #8694b2;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 1.4em;
+}
+
+.bt_mid{
+   text-decoration: none;
+   color: #13151B;
+   background-color: #DCFC04;
+   border-radius: 7px;
+   padding: 16px 48px;
+   align-items: flex-end;
+   font-weight: 700;
+   font-family: 'Space Grotesk', sans-serif;
+   text-transform: uppercase;
+}
+
+.bt_mid i img{
+   vertical-align: text-bottom;
+}
+
+
+
+
+
+
+
+/* ########################## */
+.low{
+   margin: 5% auto;
+   width: 90%;
+}
+
+.low .container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.titulo_p_low{
+   font-family: 'chaney';
+   text-align: center;
+   color: #ffffff;
+   text-transform: uppercase;
+   font-size: 28px;
+   font-weight: 500;
+}
+
+.img_low{
+   margin: 5% 0;
+}
+
+
+
+
+
+/* ######################## */
+.rodape .container{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   width: 90%;
+   margin: 4% auto;
+   padding: 80px 0;
+   color: #8694b2;
+   border-top: 3px solid #2B354A ;
+   border-bottom: 3px solid #2B354A ;
+}
+
+.logo_rodape{
+   width: 359px;
+   height: 125px;
+}
+
+.lista_menu_rodape{
+   display: flex;
+   gap: 25px;
+}
+
+.item_menu_rodape:hover{
+   color: #d6d6d6;
+   cursor: pointer;
+}
+
+.texto_rodape{
+   font-size: 13px;
+   color: #8694b2;
+   text-align: center;
+   padding-bottom: 40px ;
+}
+
+.link_rodape{
+   text-decoration: none;
+   color: #ffffff;
+}
+
+.link_rodape:hover{
+   text-decoration: underline;
+}
