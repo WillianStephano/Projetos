@@ -1,0 +1,69 @@
+@media (max-width:425px) {
+
+   .intro .container{
+      flex-direction: column;
+   }
+
+   .conteudo_texto_intro{
+      position: initial;
+      width: 90%;
+      text-align: center;
+   }
+
+   .titulo_p_intro{
+      margin: 10% 0;
+      text-align: center;
+   }
+
+   .texto_intro{
+      width: 100%;
+   }
+
+   .img_intro{
+      margin: 10% auto 0;
+      width: 100%;
+   }
+
+/* ############################# */
+
+   .mid .container{
+      flex-direction: column;
+      row-gap: 20px;
+   }
+
+   .titulo_p_mid{
+      margin: 15% 0;
+   }
+
+   .card_mid{
+      width: 80%;
+      margin: 0% auto;
+   }
+ 
+   
+
+
+
+   /* ############################# */
+   .img_low, .low{
+      width: 100%;
+   }
+
+   .titulo_p_low{
+      margin: 10% 0;
+   }
+
+
+
+   /* #################### */
+   .rodape .container{
+      flex-direction: column;
+   }
+
+   .lista_menu_rodape{
+      flex-direction: column;
+      align-items: center;
+      row-gap: 15px;
+   }
+
+}
