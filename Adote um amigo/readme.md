@@ -14,6 +14,7 @@ O projeto é composto por 4 paginas diferentes:
 - **Sobre Nos:** Conteudo descritvo com maiores informaçoes do funcionamento do site, redes sociais e localização;
 - **Perfil do Animal:** Perfil do animal com imagem do mesmo e caracteristicas;
 
+<img src="Conteudo/previa-img.PNG" alt="Imagem de pré-visualização da pagina">
 ---
 
 ## 💼 Tecnologias utilizadas
@@ -25,4 +26,4 @@ Para o desenvolvimento deste site utilizei as seguintes tecnologias:
 ---
 
 ### Autor
-<br>Willian Stephano
+Willian Stephano
