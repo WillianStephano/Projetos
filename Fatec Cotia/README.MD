@@ -11,11 +11,11 @@
     <b>🚀 Visualizar</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="https://github.com/WillianStephano/Cartolol__Clone">
+  <a href="https://github.com/WillianStephano/Fatec-Cotia__Clone">
     <b>💻 Repositório</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
-  <a href="https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO?node-id=58198%3A756">
+  <a href="http://fateccotia.edu.br/">
     <b>🔗 Site Original</b>
   </a>
 
