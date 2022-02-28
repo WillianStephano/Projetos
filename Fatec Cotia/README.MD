@@ -7,7 +7,7 @@
 </h4>
 
 <p align="center">
-  <a href="https://willianstephano.github.io/Cartolol__Clone/">
+  <a href="https://willianstephano.github.io/Fatec-Cotia__Clone/">
     <b>🚀 Visualizar</b>
   </a>
   &nbsp;&nbsp;▪&nbsp;&nbsp;
