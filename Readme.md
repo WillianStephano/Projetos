@@ -14,5 +14,6 @@
   <li><a href="https://github.com/WillianStephano/Adote-um-Amigo">Adote um amigo </a></li>
   <li><a href="https://github.com/WillianStephano/Fatec-Cotia__Clone">Fatec de Cotia - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Cartolol__Clone">Cartolol - Clone</a></li>
-  <li><a href="https://willianstephano.github.io/Facebook__Clone/">Facebook Login - Clone</a></li>
+  <li><a href="https://github.com/WillianStephano/Facebook__Clone/">Facebook Login - Clone</a></li>
+  <li><a href="https://github.com/WillianStephano/Hotmart__Clone/">Hotmart - Clone</a></li>
 </ul>
