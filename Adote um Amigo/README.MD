@@ -14,7 +14,7 @@
   <a href="https://github.com/WillianStephano/Adote-um-Amigo">
     <b>💻 Repositório</b>
   </a>
-
+</p>
 
 <p align="center">
   <img src="./previa-img.PNG" width="100%" />
