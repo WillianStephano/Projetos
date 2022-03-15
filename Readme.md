@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Repositorio criado com o intuito de mostrar meus projetos ao decorrer da minha trajetoria de estudos.
+  Repositorio criado com o intuito de apresentar meus projetos ao decorrer da minha trajetoria de estudos.
 </h3>
 
 <h4 align="center">
@@ -16,4 +16,6 @@
   <li><a href="https://github.com/WillianStephano/Cartolol__Clone">Cartolol - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Facebook__Clone/">Facebook Login - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Hotmart__Clone/">Hotmart - Clone</a></li>
+  <li><a href="https://willianstephano.github.io/NetInter/">NetInter</a></li>
+
 </ul>
