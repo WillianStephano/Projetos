@@ -16,7 +16,8 @@
   <li><a href="https://github.com/WillianStephano/Cartolol__Clone">Cartolol - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Facebook__Clone/">Facebook Login - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Hotmart__Clone/">Hotmart - Clone</a></li>
-  <li><a href="https://willianstephano.github.io/NetInter/">NetInter</a></li>
+  <li><a href="https://github.com/WillianStephano/NetInter">NetInter</a></li>
   <li><a href="https://github.com/WillianStephano/RecodePro-Clone">RecodePro - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/SescSP-Clone">Sesc Sp - Clone</a></li>
+  <li><a href="https://github.com/WillianStephano/Seu-Peso">SeuPeso</a></li>
 </ul>
