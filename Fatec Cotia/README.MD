@@ -1,5 +1,5 @@
 <h1 align="center">
-  Clone de site Cartolol
+  Clone de site Fatec Cotia
 </h1>
 
 <h4 align="center">
