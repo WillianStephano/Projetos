@@ -16,9 +16,8 @@
   </a>
 
 
-
 <p align="center">
-  <img src="./previa-img.PNG" width="100%" />
+  <img src="./previa-todolist.PNG" width="100%" />
 </p>
 
 <h6 align="center">
