@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Repositorio criado com o intuito de apresentar meus projetos ao decorrer da minha trajetoria de estudos.
+  Repositorio criado com o objetivo de apresentar meus projetos ao decorrer da minha trajetoria de estudos.
 </h3>
 
-<h4 align="center">
-  Projetos desenvolvidos:
+<h5 align="center">
+ Lista de projetos desenvolvidos:
 </h5>
 
 <ul>
@@ -17,6 +17,7 @@
   <li><a href="https://github.com/WillianStephano/Facebook__Clone/">Facebook Login - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Hotmart__Clone/">Hotmart - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/NetInter">NetInter</a></li>
+  <li><a href="https://github.com/WillianStephano/Instagram-Clone">Instagram - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/RecodePro-Clone">RecodePro - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/SescSP-Clone">Sesc Sp - Clone</a></li>
   <li><a href="https://github.com/WillianStephano/Seu-Peso">SeuPeso</a></li>
@@ -27,4 +28,71 @@
   <li><a href="https://github.com/WillianStephano/Paises">Países</a></li>
 </ul>
 
-<img src="DoctorCare-Banner.png">
+<hr>
+<h3 align="center">
+  Principais projetos
+</h3>
+<h6 align="center">
+  Clique e seja direcionado para o repositorio
+</h6>
+
+<br>
+
+<a href="https://github.com/WillianStephano/Paises">
+  <h5 align="center">Países</h5>
+  <p align="center">
+    <img src="Banner/Paises-Banner.png" width="100%"/>
+  </p>
+</a>
+
+
+<a href="https://github.com/WillianStephano/Mapa-do-Brasil">
+  <h5 align="center">Mapa do Brasil</h5>
+  <p align="center">
+    <img src="Banner/MapaDoBR-Banner.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://github.com/WillianStephano/To-do-List">
+  <h5 align="center">To do List</h5>
+  <p align="center">
+    <img src="Banner/ToDoList-Banner.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://github.com/WillianStephano/Seu-Peso">
+  <h5 align="center">Seu Peso</h5>
+  <p align="center">
+    <img src="Banner/SeuPeso-Banner.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://github.com/WillianStephano/Clima">
+  <h5 align="center">Clima</h5>
+  <p align="center">
+    <img src="Banner/Clima-Banner.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://github.com/WillianStephano/Portfolio">
+  <h5 align="center">Portfolio</h5>
+  <p align="center">
+    <img src="Banner/Portfolio-Banner.png" width="100%" />
+  </p>
+</a>
+
+<a href="https://github.com/WillianStephano/Hotmart__Clone">
+  <h5 align="center">Hotmart - Clone</h5>
+  <p align="center">
+    <img src="Banner/HotmartClone-Banner.png" width="100%" />
+  </p>
+</a>
+
+
+<a href="https://github.com/WillianStephano/Instagram-Clone">
+  <h5 align="center">Instagram - Clone</h5>
+  <p align="center">
+    <img src="Banner/InstaClone-Banner.png" width="100%" />
+  </p>
+</a>
+
