@@ -41,7 +41,7 @@
 <a href="https://github.com/WillianStephano/Paises">
   <h4 align="center">Países</h4>
   <p align="center">
-    <img src="Banner/Paises-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/Paises-Banner.png" width="85%" height="185px"/>
   </p>
 </a>
 
@@ -49,42 +49,42 @@
 <a href="https://github.com/WillianStephano/Mapa-do-Brasil">
   <h4 align="center">Mapa do Brasil</h4>
   <p align="center">
-    <img src="Banner/MapaDoBR-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/MapaDoBR-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
 <a href="https://github.com/WillianStephano/To-do-List">
   <h4 align="center">To do List</h4>
   <p align="center">
-    <img src="Banner/ToDoList-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/ToDoList-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
 <a href="https://github.com/WillianStephano/Seu-Peso">
   <h4 align="center">Seu Peso</h4>
   <p align="center">
-    <img src="Banner/SeuPeso-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/SeuPeso-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
 <a href="https://github.com/WillianStephano/Clima">
   <h4 align="center">Clima</h4>
   <p align="center">
-    <img src="Banner/Clima-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/Clima-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
 <a href="https://github.com/WillianStephano/Portfolio">
   <h4 align="center">Portfolio</h4>
   <p align="center">
-    <img src="Banner/Portfolio-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/Portfolio-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
 <a href="https://github.com/WillianStephano/Hotmart__Clone">
   <h4 align="center">Hotmart - Clone</h4>
   <p align="center">
-    <img src="Banner/HotmartClone-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/HotmartClone-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
@@ -92,7 +92,7 @@
 <a href="https://github.com/WillianStephano/Instagram-Clone">
   <h4 align="center">Instagram - Clone</h4>
   <p align="center">
-    <img src="Banner/InstaClone-Banner.png" width="100%" height="185px"/>
+    <img src="Banner/InstaClone-Banner.png"  width="85%" height="185px"/>
   </p>
 </a>
 
